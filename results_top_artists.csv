@@ -1,0 +1,16 @@
+artists,total_tracks,avg_popularity,avg_danceability
+['Die drei ???'],3856,36.5,0.642
+['TKKG Retro-Archiv'],2006,29.2,0.643
+['Benjamin Blümchen'],1503,28.2,0.691
+['Bibi Blocksberg'],1472,34.0,0.692
+['Lata Mangeshkar'],1128,11.9,0.461
+['Bibi und Tina'],927,34.6,0.699
+"['Tintin', 'Tomas Bolme', 'Bert-Åke Varg']",905,21.7,0.674
+['Ella Fitzgerald'],814,12.0,0.488
+['Fünf Freunde'],812,27.3,0.667
+['Queen'],777,37.9,0.465
+['Mohammed Rafi'],719,13.2,0.47
+['Elvis Presley'],680,32.0,0.486
+['The Rolling Stones'],654,32.1,0.524
+['Frank Sinatra'],652,26.3,0.379
+['Die Originale'],638,13.7,0.656

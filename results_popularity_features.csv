@@ -1,0 +1,5 @@
+popularity_tier,total_tracks,avg_danceability,avg_energy,avg_duration_min,avg_tempo
+1. Very Popular 80-100,954,0.672,0.641,3.45,121.0
+2. Popular 60-79,26890,0.63,0.64,3.71,121.4
+3. Moderate 40-59,129786,0.597,0.625,3.96,121.0
+4. Low 0-39,384352,0.552,0.528,3.81,118.2
