@@ -18,7 +18,7 @@ and identifies what audio features define a hit song on Spotify today.
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.jpg)
 
 ---
 
