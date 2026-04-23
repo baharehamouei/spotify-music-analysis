@@ -20,6 +20,8 @@ and identifies what audio features define a hit song on Spotify today.
 
 ![Dashboard Preview](dashboard_preview.jpg)
 
+![Dashboard Preview](dashboard_preview2.jpg)
+
 ---
 
 ## Business Questions Answered
